@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f660779.css",
+    "main.js": "/static/js/main.de00e231.js",
+    "static/media/Blog-Banner-bed.webp": "/static/media/Blog-Banner-bed.962310d22c76f699247d.webp",
+    "static/media/Profile.png": "/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "static/media/redux.cjs": "/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/index.html",
+    "main.8f660779.css.map": "/static/css/main.8f660779.css.map",
+    "main.de00e231.js.map": "/static/js/main.de00e231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f660779.css",
+    "static/js/main.de00e231.js"
+  ]
+}
